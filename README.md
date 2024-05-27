@@ -21,11 +21,12 @@ Week 01 assignment for Tech Educators
 
 🎯 Were there any requirements or goals that you were not quite able to achieve?
 
-• I was unable to reach the goal of asigning a gradient over the section images to improve legibility for the user.
+• I was unable to reach the goal of asigning a gradient over the section images to improve legibility for the user. (I have solved this since writing)
 
 🎯 If so, could you please tell us what was it that you found difficult about these tasks?
 
-• I was trying to find a way to do this all in CSS, I couldnt find too much on the subject online. I think going forward i'm going to speak with other class members who may have tackled the same issue or/and try adding a img in html and working from there.
+• I was trying to find a way to do this all in CSS, I couldnt find too much on the subject online. I think going forward i'm going to speak with other class members who may have tackled the same issue or/and try adding a img in html and working from there. (Solved)
+• I solved the issue by creating an extra div box inside the section I wanted to add the linear gradient to in HTML and styling it in CSS.
 
 (Optional)
 🏹 Feel free to add any other reflections you would like to share about your submission e.g.
@@ -40,7 +41,7 @@ What went really well and what could have gone better?
 Detailing useful external sources that helped you complete the assignment (e.g Youtube tutorials).
 
 • unsplash.com for copywrite free images
-• chatgpt.com for written content copy ideas
+• chatgpt.com for generating placeholder text.
 
 Describing errors or bugs you encountered while completing your assignment.
 
@@ -48,7 +49,7 @@ Describing errors or bugs you encountered while completing your assignment.
 
 Requesting feedback about a specific part of your submission.
 
-• How do I add a gradient in front of an image!
+• Nothing specific, but I'd like to know if there are more elegant ways I could code.
 
 # Sources for content
 
